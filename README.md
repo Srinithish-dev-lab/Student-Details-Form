@@ -25,5 +25,3 @@ This project allows users to input student details via a form and display them i
 - **JavaScript (Vanilla JS)** – for DOM manipulation & form handling  
 
 ---
-
-## 📂 Project Structure
